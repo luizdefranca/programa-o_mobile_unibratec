@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula 05</string>
+    <string name="ok">OK</string>
+    <string name="solicitacao">Digite um nome:</string>
+    <string name="send">Passar</string>
+    <string name="result">Resultado</string>
+</resources>

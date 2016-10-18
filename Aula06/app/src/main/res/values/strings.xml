@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aula 06</string>
+    <string name="name">Name</string>
+    <string name="str_social_network">Social Network</string>
+    <string name="sn_facebook">Facebook</string>
+    <string name="sn_twitter">Twitter</string>
+    <string name="sn_gplus">Google+</string>
+    <string name="str_receive_email">Receive email</string>
+    <string name="str_send">Send</string>
+    <string name="Confirm">Select</string>
+    <string-array name="socials">
+        <item>@string/sn_facebook</item>
+        <item>@string/sn_twitter</item>
+        <item>@string/sn_gplus</item>
+    </string-array>
+</resources>

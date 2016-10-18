@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Class 03</string>
+    <string name="gasolina">Gas</string>
+    <string name="alcool">Ethanol</string>
+    <string name="resultado">The best choice is:</string>
+    <string name="invalidNumber">Invalid Number</string>
+</resources>
